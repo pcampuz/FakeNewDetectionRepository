@@ -1,0 +1,19 @@
+Label	Description	Source
+1	Nadal, rei da terra batida	https://pt.euronews.com/2020/10/12/nadal-rei-da-terra-batida
+1	"É considerado como um dos maiores tenistas de todos os tempos; mas seu sucesso particularmente no saibro ou terra batida o fez ganhar o apelido de ""rei do saibro""/""rei da terra batida"", existindo um consenso entre jogadores, ex-jogadores e especialistas, em considerá-lo o maior jogador de tênis da história nesta superfície"	https://pt.wikipedia.org/wiki/Rafael_Nadal
+1	Rafa Nadal defronta este domingo o bielorrusso Egor Gerasimov e começa aí a caminhada que o pode levar até ao 20.º Grand Slam da carreira, igualando os 20 que Roger Federer completou com o Open da Austrália de há dois anos. No piso onde se sente mais confortável, o rei da terra batida vai à procura da 13.ª vitória em Roland Garros e a terceira consecutiva — sendo que esta, com a possibilidade de igualar Federer, pode tornar-se a mais importante.	https://observador.pt/2020/09/27/nadal-e-o-favorito-para-quem-tiver-alguma-inteligencia-a-antevisao-de-chris-evert-rainha-da-terra-batida-sete-vezes-a-roland-garros/
+0	Cristiano Ronaldo é o rei da terra batida	Rumor
+1	O rei da terra batida volta a mandar 700 dias depois. Rafael Nadal vence o Masters 1000 de Monte Carlo depois de uma «seca de títulos» em 2015	https://maisfutebol.iol.pt/rafa-nadal/tenis/o-rei-da-terra-batida-volta-a-mandar-700-dias-depois
+0	Ronaldo é um tenista profissional	Rumor
+1	Rei da terra batida abre as portas do Castelo. Nadal perde pela primeira vez antes da final em Monte Carlo	https://www.record.pt/modalidades/tenis/detalhe/rei-da-terra-batida-abre-as-portas-do-castelo-878663
+0	Ronado joga muito bem ténis	Rumor
+0	Cristiano é o rei a jogar tenis	Rumor
+1	Ronaldo conquista prémio de Melhor Jogador do Século nos Globe Soccer Awards	https://observador.pt/2020/12/27/ronaldo-conquista-premio-de-melhor-jogador-do-seculo-nos-globe-soccer-awards/
+1	Cristiano Ronaldo é eleito melhor do mundo e 'cola' em Messi na premiação da Fifa	https://www.jornaldocomercio.com/_conteudo/2017/01/esportes/540802-cristiano-ronaldo-e-eleito-melhor-do-mundo-e-cola-em-messi-na-premiacao-da-fifa.html
+0	Nadal é o melhor em futebol	Rumor
+0	Rafael Nadal é o melhor jogador do mundo 	Rumor
+1	Cristiano Ronaldo eleito o jogador do século	https://www.jn.pt/desporto/canal/planeta-ronaldo/cristiano-ronaldo-eleito-o-jogador-do-seculo-13175202.html
+1	Cristiano Ronaldo foi eleito nesta segunda-feira o melhor jogador do mundo pela quinta vez na carreira.	https://www.gazetaesportiva.com/bastidores/cristiano-ronaldo-e-eleito-melhor-jogador-do-mundo-e-iguala-messi/
+0	Ronaldo é o rei em terra	Rumor
+0	Cristiano é o rei a jogar tenis	Rumor
+1	O rei não morreu, viva Nadal	https://www.publico.pt/2019/05/19/desporto/noticia/rei-nao-morreu-viva-nadal-1873284
